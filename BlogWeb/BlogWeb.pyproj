@@ -29,6 +29,8 @@
     <Compile Include="app.py" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="docker-compose.yml" />
+    <Content Include="Dockerfile.txt" />
     <Content Include="requirements.txt" />
     <Content Include="static\main.css" />
     <Content Include="templates\about.html" />
